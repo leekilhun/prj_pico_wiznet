@@ -3,7 +3,7 @@ import sys
 import time
 import serial
 
-
+#com_port  = "COM19"
 com_port  = sys.argv[1]
 file_name = "../build/src/ethernet_can_gateway"
 

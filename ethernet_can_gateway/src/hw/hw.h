@@ -22,7 +22,11 @@
 #include "log.h"
 #include "gpio.h"
 #include "spi.h"
+#include "i2c.h"
 #include "can.h"
+#include "lcd.h"
+#include "button.h"
+#include "cmd_can.h"
 
 
 bool hwInit(void);
