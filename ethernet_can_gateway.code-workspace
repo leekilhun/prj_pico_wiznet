@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "ethernet_can_gateway"
+		}
+  ],
+  "settings": {	
+    "terminal.integrated.env.windows": {
+      "PATH": "${env:PATH};c:/tools/xpack-windows-build-tools-4.2.1-2/bin;C:/tools/gcc-arm-none-eabi-9-2020-q2-update-win32/bin;c:/tools/mingw32/bin",
+"PICO_SDK_PATH": "D:/prj_pico_wiznet/ethernet_can_gateway/external/pico-sdk", 
+  
+},
+  }
+}
