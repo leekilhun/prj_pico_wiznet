@@ -2,6 +2,7 @@
 build/
 .vscode/
 err_log/
+debug_tool/
 
 
 ## 파일 무시 (test.txt) 
